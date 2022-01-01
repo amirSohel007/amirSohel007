@@ -1,11 +1,10 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Amir SOhel</h1>
+<h3 align="center">A passionate developer from India ❤️</h3>
 
 <a href="https://app.daily.dev/amirSohel"><img src="https://api.daily.dev/devcards/33e0633728314b80ab9a6314cfc7d357.png?r=48a" width="400" alt="Amir Sohel's Dev Card"/></a>
 
 
-<h1 align="center">Hi 👋, I'm Amir SOhel</h1>
-<h3 align="center">A passionate developer from India ❤️</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirsohel007&label=Profile%20views&color=0e75b6&style=flat" alt="amirsohel007" /> </p>
 
@@ -15,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://acodity.com](https://acodity.com)
 
-- 💬 Ask me about **Design & Coding**
+- 💬 Ask me about **Design & Development**
 
 - 📫 How to reach me **amirsohel27@gmail.com**
 

@@ -22,6 +22,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://dev.to/amirsohel007/how-to-get-dom-element-text-value-in-cypress-30gn
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

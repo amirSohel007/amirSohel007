@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+<a href="https://app.daily.dev/amirSohel"><img src="https://api.daily.dev/devcards/33e0633728314b80ab9a6314cfc7d357.png?r=48a" width="400" alt="Amir Sohel's Dev Card"/></a>
 <!--
 **amirSohel007/amirSohel007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
